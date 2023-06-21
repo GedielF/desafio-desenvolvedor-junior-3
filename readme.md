@@ -1,5 +1,22 @@
 ![SoftMakers](https://vagas.softmakers.com.br/assets/img/logotipo14xxhdpi.png)
 
+[React Rest Client.webm](https://github.com/GedielF/desafio-desenvolvedor-junior-3/assets/63916720/975e1283-c705-4c8b-a950-3f6b7c8f93a9)
+
+Este projeto foi inicializado com Create React App.
+
+Scripts Disponíveis
+No diretório do projeto, você pode executar:
+
+*npm start*
+
+Executa o aplicativo no modo de desenvolvimento.
+Abra http://localhost:3000 para visualizá-lo no navegador.
+
+Desde ja agradeço e estou a disposiçao para qualquer coisa!
+
+
+
+*************************************************************************
 # Desafio - Desenvolvedor Fullstack Junior 3.
 Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnica como candidato à vaga de Desenvolvedor Fullstack Junior 3.
 ## Instruções
